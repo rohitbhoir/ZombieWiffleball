@@ -54,6 +54,7 @@ public class Bat : MonoBehaviour {
 		animation["BatAnim"].speed = 3;
 		animation.Play();
 		resetBat();
+		//Testing git
 //		if(transform.localEulerAngles.y < 130 && !stopFlag)
 //		{
 //			stopFlag = true;
